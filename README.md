@@ -20,7 +20,7 @@ Select a ColdFusion tag or function (Usually double-clicking is the easiest way 
 
 This searches the currently selected function or tag for a corresponding page in CFDocs. If it finds one, it will format the response using markdown, and display it in a pane to the right of the main code pane. Currently, this interferes with layouts other than single-pane layouts. This command works really well if you have a Markdown plugin installed which lets you preview the formatted markdown in the browser.
 
-![Documentation pane screenshot with Material Solarized Dark color scheme](https://github.com/justinashleylawii/cf-docs-search/images/pane-screenshot.png)
+![Documentation pane screenshot with Material Solarized Dark color scheme](https://raw.githubusercontent.com/justinashleylawii/cf-docs-search/master/images/pane-screenshot.png)
 
 You can close this pane like any other pane. To return to a single pane layout, in Sublime, go to `View -> Layout -> Single` or use the shortcut (by Default: `Alt+Shift+1`).
 
