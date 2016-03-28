@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+alt+d"], "command": "cf_docs_pane",
+        "keys": ["ctrl+alt+b"], "command": "cf_docs_browser",
+    },
+]

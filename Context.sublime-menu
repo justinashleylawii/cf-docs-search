@@ -1,0 +1,6 @@
+[
+	{ "caption": "-" },
+	{"caption": "ColdFusion Docs (Open Browser)", "command": "cf_docs_browser"},
+	{"caption": "ColdFusion Docs (in Pane)", "command": "cf_docs_pane"},
+	{ "caption": "-", "id": "end" }
+]
